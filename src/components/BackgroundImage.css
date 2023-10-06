@@ -1,0 +1,8 @@
+
+.background-image {
+  position: absolute;
+  background-image: url('./arquivos/imgs/imagemDeFundo.jpg');
+  background-size: cover; /* Para ajustar a imagem ao tamanho da tela */
+  background-repeat: no-repeat; /* Para evitar repetição da imagem */
+  /* Outras propriedades de estilo, se necessário */
+}

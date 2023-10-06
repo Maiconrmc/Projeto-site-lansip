@@ -1,0 +1,17 @@
+/* Estilos para o ícone do chat */
+.chatwoot-chat .chat-icon {
+  position: fixed;
+  bottom: 10px; /* Ajuste conforme necessário */
+  top: 30px;
+  left: 20px; /* Ajuste conforme necessário */
+  cursor: pointer;
+  background-color: #007bff; /* Cor de fundo do ícone */
+  color: #fff; /* Cor do texto do ícone */
+  padding: 10px;
+  border-radius: 50%;
+}
+
+/* Estilos para a janela de chat (aberta) */
+.chatwoot-chat.open {
+  /* Estilize a janela de chat aberta conforme necessário */
+}
